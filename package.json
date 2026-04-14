@@ -1,0 +1,6 @@
+{
+  "name": "mouse-back-to-enter",
+  "version": "1.0.0",
+  "main": "lib/main.js",
+  "engines": { "mailspring": "*" }
+}
