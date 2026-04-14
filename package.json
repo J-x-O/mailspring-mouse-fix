@@ -1,6 +1,8 @@
 {
-  "name": "mouse-back-to-enter",
+  "name": "mailspring-mouse-fix",
   "version": "1.0.0",
   "main": "lib/main.js",
-  "engines": { "mailspring": "*" }
+  "engines": {
+    "mailspring": "*"
+  }
 }
